@@ -60,6 +60,8 @@ Monitoring Dashboard
 
 ## Methodology
 
+<img width="1536" height="971" alt="Methodology" src="https://github.com/user-attachments/assets/87094f01-e5a5-4a0c-a581-33082477fa48" />
+
 ### 1. Data Collection
 
 Water quality measurements were collected using a turbidity sensor connected to an ESP32 microcontroller.
