@@ -4,16 +4,6 @@
 
 Water contamination is one of the most significant environmental and public health challenges worldwide. This project presents an IoT-enabled Smart Water Quality Monitoring System that combines real-time sensing and Machine Learning techniques to classify water usability and predict potential waterborne disease risks.
 
-## Research Publication
-
-**Title:** Smart Water Quality Monitoring System with Multi-Level Usability and Waterborne Disease Risk Prediction
-
-**Conference:** IEEE ICONAT 2026
-
-**Role:** Primary Author
-
-**Status:** Submitted for Review
-
 ## Objectives
 
 - Monitor water quality in real time using IoT devices.
